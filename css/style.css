@@ -6,3 +6,29 @@
     --font-gray: rgb(196,196,196);
     --font-black: rgb(0,0,0);
 }
+
+@font-face {
+    font-family: Inter;
+    src: url(../resources/fonts/Inter-variable.ttf);
+}
+
+body {
+    display: grid;
+    grid-template-rows: 15% 1fr;
+    grid-template-columns: 20% 1fr;
+}
+
+header {
+    background-color: var(--background-white);
+    grid-area: 1 / 2 / 2 / -1;
+}
+
+aside {
+    background-color: var(--sidebar-blue);
+    grid-area: 1 / 1 / -1 / 2;
+}
+
+article {
+    background-color: var(--background-gray);
+    grid-area: 2 / 2 / -1 / -1;
+}
