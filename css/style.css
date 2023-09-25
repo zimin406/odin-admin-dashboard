@@ -22,7 +22,7 @@
 body {
     display: grid;
     grid-template-rows: 20% 1fr;
-    grid-template-columns: 18% 1fr;
+    grid-template-columns: 240px 1fr;
 }
 
 /* header start */
@@ -36,7 +36,6 @@ header {
 }
 
 header .header-search-field {
-    border: 1px solid black;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
