@@ -18,13 +18,22 @@
 <body>
     <header>
         <form class = "header-search-field">
-            <button type = "submit"><span class="material-symbols-outlined">
-                search
-                </span>
+            <button type = "submit">
+                <span class="material-symbols-outlined">search</span>
             </button>
-            <input type = "search">
+            <input type = "search" id = "header-search-field" name = "header-search-field">
         </form>
-        <div class = "header-user-container-1"></div>
+        <div class = "header-user-container-1">
+            <button type = "button" class = "header-notification-button">
+                <span class="material-symbols-outlined">notifications</span>
+            </button>
+            <div class = "header-user-card-1">
+                <button type = "button" class = "header-user-image-1">
+                    <img src = "./resources/images/profile-egg-fry.png" alt = "User Profile Image">
+                </button>
+                <button type = "button" class = "header-user-name">Justa Fina</button>
+            </div>
+        </div>
         <div class = "header-user-container-2"></div>
         <div class = "header-button-container"></div>
     </header>
@@ -34,44 +43,36 @@
                 dashboard
             </span>Dashboard</h1>
         <ul class = "sidebar-menu-container">
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                home
-                </span>Home</a></li>
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                person_book
-                </span>Profile</a></li>
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                chat_bubble
-                </span>Messages</a></li>
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                history
-                </span>History</a></li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">home</span>Home</a>
+            </li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">person_book</span>Profile</a>
+            </li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">chat_bubble</span>Messages</a>
+            </li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">history</span>History</a>
+            </li>
             <li class = "sidebar-menu-item"><a>
                 <span class="material-symbols-outlined">
                 task
                 </span>Tasks</a></li>
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                groups
-                </span>Communities</a></li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">groups</span>Communities</a>
+            </li>
         </ul>
         <ul class = "sidebar-menu-container">
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                settings
-                </span>Settings</a></li>
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                help
-                </span>Support</a></li>
-            <li class = "sidebar-menu-item"><a>
-                <span class="material-symbols-outlined">
-                shield_lock
-                </span>Privacy</a></li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">settings</span>Settings</a>
+            </li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">help</span>Support</a>
+            </li>
+            <li class = "sidebar-menu-item">
+                <a><span class="material-symbols-outlined">shield_lock</span>Privacy</a>
+            </li>
         </ul>
     </aside>
     <article>
