@@ -30,6 +30,7 @@ header {
     background-color: var(--background-white);
     grid-area: 1 / 2 / 2 / -1;
 }
+
 /* header end */
 
 /* sidebar start */
