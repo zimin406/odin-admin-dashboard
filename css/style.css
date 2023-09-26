@@ -355,4 +355,33 @@ article .announcement-item:last-child .announcement-message {
 article .trending {
     grid-area: 2 / 2 / 3 / 3; 
 }
+
+article .trending-item {
+    display: flex;
+    gap: 20px;
+}
+
+article .trending-user-image img {
+    width: 2.8rem;
+    height: auto;
+    border-radius: 1.4rem;
+}
+
+article .trending-user-content {
+    display: flex;
+    flex-direction: column;
+    gap: 2  px;
+}
+
+article .trending-user-id {
+    font-weight: 600;
+    font-size: 1rem;
+    color: var(--font-black);
+}
+
+article .trending-message {
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--font-gray);
+}
 /* main content end */

@@ -3,7 +3,10 @@ Repository for The Odin Project's Project:Admin Dashboard
 
 ## Credits
 ### User Profile Images
-- egg fry image: <a href="https://pixabay.com/ko//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7847875">Pixabay</a>로부터 입수된 <a href="https://pixabay.com/ko/users/sugeysima-8137710/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7847875">SugeySima</a>님의 이미지 입니다.
-- avocado image: <a href="https://pixabay.com/ko//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5928508">Pixabay</a>로부터 입수된 <a href="https://pixabay.com/ko/users/meesgroothuis-19184367/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5928508">Mees Groothuis</a>님의 이미지 입니다.
-- rocket image: <a href="https://pixabay.com/ko//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7774875">Pixabay</a>로부터 입수된 <a href="https://pixabay.com/ko/users/mohamed_hassan-5229782/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7774875">Mohamed Hassan</a>님의 이미지 입니다.
-- room image: <a href="https://pixabay.com/ko//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7354939">Pixabay</a>로부터 입수된 <a href="https://pixabay.com/ko/users/ron_hoekstra-28734509/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=7354939">Ron Hoekstra</a>님의 이미지 입니다.
+- egg fry image(https://pixabay.com/vectors/egg-breakfast-fried-egg-7847875/) by SugeySima(https://pixabay.com/users/sugeysima-8137710/) from Pixabay
+- avocado image(https://pixabay.com/vectors/avocado-half-cross-section-5928508/) by meesgroothuis(https://pixabay.com/users/meesgroothuis-19184367/) from Pixabay
+- bird image(https://pixabay.com/vectors/seagull-bird-cartoon-symbol-icon-7282992/) by t0ngo(https://pixabay.com/users/t0ngo-22657531/) from Pixabay
+- atom image(https://pixabay.com/vectors/atom-physics-science-neutron-1674878/) by Memed_Nurrohmad(https://pixabay.com/users/memed_nurrohmad-3307648/) from Pixabay
+
+### Fonts
+- Inter(https://fonts.google.com/specimen/Inter) by Rasmus Andersson(https://fonts.google.com/?query=Rasmus+Andersson) from Google Fonts
